@@ -4,7 +4,7 @@ Pequeño juego de plataformas desarrollado en Processing cuando tenía 17 años.
 
 Controles: 
 	Desplazamiento:
-		A - Desplazarse a la izquierda
+		A - Desplazarse a la izquierda\n
 		D - Desplazarse a la derecha
 		W - Saltar
 	Crear nueva plataforma:
